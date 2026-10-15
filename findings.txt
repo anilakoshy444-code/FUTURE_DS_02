@@ -1,0 +1,28 @@
+# Customer Retention and Churn Analysis
+
+## 1. Objective
+To analyze customer churn, understand customer behavior, and identify ways to improve customer retention.
+
+## 2. Key Findings
+- Total customers analyzed: 7,032.
+- Churned customers: 1,869.
+- Retained customers: 5,163.
+- Overall churn rate: 26.58%.
+- Overall retention rate: 73.42%.
+- Month-to-month contracts have the highest churn rate at 42.71%.
+- Two-year contracts have the lowest churn rate at 2.85%.
+- Fiber optic customers have a churn rate of 41.89%.
+- Electronic check users have the highest payment-method churn rate at 45.29%.
+- Churned customers have a shorter average tenure of 17.98 months, compared with 37.65 months for retained customers.
+- Average monthly charges are higher among churned customers ($74.44) than retained customers ($61.31).
+
+## 3. Recommendations
+- Offer suitable discounts and benefits to encourage longer contracts.
+- Contact month-to-month customers who may be considering leaving.
+- Investigate customer concerns about fiber optic services and pricing.
+- Review payment experiences for electronic check users.
+- Provide better support and special offers to new customers.
+- Monitor churn rates regularly to evaluate retention efforts.
+
+## 4. Conclusion
+The analysis shows that contract type, payment method, monthly charges, and customer tenure are associated with churn. Targeted offers and improved customer support may help businesses retain more customers.
